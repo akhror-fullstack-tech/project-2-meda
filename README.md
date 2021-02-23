@@ -18,20 +18,20 @@
 
 ### My portfolio website Introduction
 
-    As any developer has a personal portfolio website, I also have own website . There is my portfolio collection website with 4 section such as aboutme, portfolio, skills and contactme pages included.
     
+ As any developer has a personal portfolio website, I also have own website . There is my portfolio collection website with 4 section such as aboutme, portfolio, skills and contactme pages included.
     
     
     
  ### Body part of my Portfolio Website
        
-       In the Body part , I would like to involve some parts on my  one Page with Navbar has options. Navbar gives direction to drop down to the primary part. As if it is clicked as about me , the web page will automatically drop down to the about me section on my one page. And the other options are also available in the navbar with seactions.
+    In the Body part , I would like to involve some parts on my  one Page with Navbar has options. Navbar gives direction to drop down to the primary part. As if it is clicked as about me , the web page will automatically drop down to the about me section on my one page. And the other options are also available in the navbar with seactions.   
        
        
 
 ### UI of my website
 
-       In my Web page has UI design with CSS. and it is magical attractible for users to imagine me and my experiance on  their first view.
+    In my Web page has UI design with CSS. and it is magical attractible for users to imagine me and my experiance on  their first view.   
         
 ### Navigation bar of my website 
 
