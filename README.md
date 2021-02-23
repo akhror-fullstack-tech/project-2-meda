@@ -8,7 +8,7 @@ dc,sd
 # About Me Page
 
 
-<img src="./aboutme.jpg" />
+<img src="./about.jpg" />
 
 
 # My Portfolio Page
