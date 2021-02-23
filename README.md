@@ -10,7 +10,10 @@
 ➔ Images and/or photos that you will be using on your portfolio.<br>
 ➔ A wireframe for each webpage.<br>
 ➔ Text content for your webpages.<br>
-➔ Resume as a PDF file.<br>
+➔ Resume as a PDF file.<a href="./resume_linkedin (1).pdf" > Just Click Me to see My RESUME </a>
+
+
+<br>
 
 
 ### My portfolio website Introduction
