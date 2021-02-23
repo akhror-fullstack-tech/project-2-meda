@@ -24,8 +24,8 @@
     
     
  ### Body part of my Portfolio Website
+In the Body part , I would like to involve some parts on my  one Page with Navbar has options. Navbar gives direction to drop down to the primary part. As if it is clicked as about me , the web page will automatically drop down to the about me section on my one page. And the other options are also available in the navbar with seactions.       
        
-    In the Body part , I would like to involve some parts on my  one Page with Navbar has options. Navbar gives direction to drop down to the primary part. As if it is clicked as about me , the web page will automatically drop down to the about me section on my one page. And the other options are also available in the navbar with seactions.   
        
        
 
