@@ -31,11 +31,11 @@ In the Body part , I would like to involve some parts on my  one Page with Navba
 
 ### UI of my website
 
-    In my Web page has UI design with CSS. and it is magical attractible for users to imagine me and my experiance on  their first view.   
+In my Web page has UI design with CSS. and it is magical attractible for users to imagine me and my experiance on  their first view.       
         
 ### Navigation bar of my website 
 
-      There are Four main navbars in my web page and there are also connected their secctions on the web page.
+There are Four main navbars in my web page and there are also connected their secctions on the web page.      
 
 
 
